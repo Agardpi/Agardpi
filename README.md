@@ -1,43 +1,44 @@
 ## Hey there! I'm Agbetorwu Prince  
   
 ### About Me  
-Welcome to my learning playground! I'm diving deep into **web development, automation, and software engineering**, fueled by curiosity and a passion for building innovative solutions.  
-  
-Right now, I'm honing my skills in **Python, JavaScript, and Java**, turning ideas into projects and mistakes into lessons.  
+I'm a **programmer** exploring **web development, automation, software engineering, and data science**. Passionate about solving problems and building efficient systems, I focus on **Python, JavaScript, and Java**, continuously refining my skills through hands-on projects.  
   
 ### What I'm Learning  
-**Languages**  
+**Languages:**  
 Python  
 JavaScript  
 Java  
-  
-**Frontend**  
+**Frontend:**  
 HTML  
 CSS  
 React  
-  
-**Backend**  
+**Backend:**  
 Flask  
 Node.js  
-  
-**Software Development**  
+Express.js (A web framework for Node.js)  
+RESTful API Development  
+Flask  
+Node.js  
+**Software Development:**  
 API design  
 Automation  
-Backend systems  
+Scalable systems  
+**Data Science:**  
+Data analysis  
+Machine learning  
+Visualization  
   
-### My Learning Goals  
-- Master **frontend & backend development** at an advanced level  
-- Build real-world projects that solve practical problems  
-- Explore automation to enhance efficiency  
+### Learning Goals  
+- Build modern web applications  
+- Automate workflows for efficiency  
+- Deepen expertise in data science  
+- Collaborate on open-source projects  
   
 ### Let's Connect!  
 **Portfolio:** [Coming Soon]  
-  
 **LinkedIn:** [Your LinkedIn Profile]  
-  
 **GitHub:** [Your GitHub Profile]  
-  
 **Email:** agbetorwuprince@gmail.com  
   
-Let's learn, build, and grow together.  
+Always open to learning, building, and collaborating!
 

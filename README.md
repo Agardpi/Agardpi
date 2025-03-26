@@ -35,8 +35,7 @@ Visualization
 - Collaborate on open-source projects  
   
 ### Let's Connect!  
-**Portfolio:** [Coming Soon]  
-**LinkedIn:** [Your LinkedIn Profile]  
+**Portfolio:** For now, just check out my repos! 
 **GitHub:** https://github.com/Agardpi  
 **Email:** agbetorwuprince@gmail.com  
   

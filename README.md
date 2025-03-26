@@ -37,7 +37,7 @@ Visualization
 ### Let's Connect!  
 **Portfolio:** [Coming Soon]  
 **LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Profile]  
+**GitHub:** https://github.com/Agardpi  
 **Email:** agbetorwuprince@gmail.com  
   
 Always open to learning, building, and collaborating!
